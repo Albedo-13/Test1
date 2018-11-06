@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1539271290 source:c:\users\cyxar\onedrive\Рабочий стол\123abc\array\array_002\main.cpp
+	<iostream>
+	<cmath>
+
+1541498370 source:c:\users\cyxar\onedrive\Рабочий стол\123abc\array\a_002\main.cpp
+	<iostream>
+	"Print.h"
+	"Predicates.h"
+	"Sort.h"
+	"algorithms.h"
+
+1540997970 c:\users\cyxar\onedrive\Рабочий стол\123abc\array\a_002\print.h
+
+1540914418 c:\users\cyxar\onedrive\Рабочий стол\123abc\array\a_002\predicates.h
+
+1540914322 c:\users\cyxar\onedrive\Рабочий стол\123abc\array\a_002\sort.h
+
+1541498484 c:\users\cyxar\onedrive\Рабочий стол\123abc\array\a_002\algorithms.h
+
